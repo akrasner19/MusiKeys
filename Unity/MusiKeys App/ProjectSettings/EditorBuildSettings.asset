@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MusiKeysScene.unity
+    guid: 36999c69e0760b44d93c5430f688c4db
+  - enabled: 1
+    path: Assets/Scenes/MusiKeyScene20.unity
+    guid: 296d696ff24c0484ea646627cb4b8b28
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: cf1fa4947528b37418ec87e10cafef36, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ac2ecac858706c14d9eb1064aad8bd80, type: 2}

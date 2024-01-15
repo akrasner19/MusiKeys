@@ -1,0 +1,24 @@
+{
+	"position_adjustment":"Welcome to our study!\n\nFirst we will be getting the application calibrated to you and the room. Listen to the study administrator for instructions. Please do not press anything until directed to do so by the administrator.\n\nYour codename for this study is: ",
+	"pre_practices":[
+		{
+			"practice_desc":"Time to practice for the No Sound keyboard.\nThe study administrator will now give a description of the No Sound keyboard and the practice task you are about to complete."
+		},
+		{
+			"practice_desc":"Time to practice for the Clicking Sound keyboard.\nThe study administrator will now give a description of the Clicking Sound keyboard and the practice task you are about to complete."
+		},
+		{
+			"practice_desc":"Time to practice for the Travel Sound keyboard.\nThe study administrator will now give a description of the Travel Sound keyboard and the practice task you are about to complete."
+		},
+		{
+			"practice_desc":"Time to practice for the Musical Sound keyboard.\nThe study administrator will now give a description of the No Sound keyboard and the practice task you are about to complete."
+		}
+	],
+	"post_practice":"Thank you for doing your best to practice with the keyboard. If you feel it is possible that your typing could be further improved, please press the \"back\" button to go back to practice.\nOnce you press \"next\", you CANNOT GO BACK to practice.",
+	"start_confirmation":"A typing task is about to begin.\nPlease take a moment to rest your arms and wrists by your side if needed.\n\n- Task duration is 1 minute.\n- Try to balance speed and accuracy.\n- If you finish early, press \"submit early\" button on your right.",
+	"post_trial":"Thank you for taking time to think about your experience with this keyboard!\nPlease loosen the knob on the back of the headstrap to gently remove the headset and hand the headset to the study administrator. Next we will have you answer some surveys.",
+	"thank_you":"Thank you for taking time to think about your experience with this keyboard!\nPlease loosen the knob on the back of the headstrap to gently remove the headset and hand the headset to the study administrator. Next we will have you answer some surveys followed by an exit interview.",
+	"task_complete":"Task Complete!",
+	"tlx_answer":"Thank you for completing the typing tasks for this trial!\nPlease listen to the study administrator's instructions as they guide you through a short oral questionnaire.\nDo not remove your headset!",
+	"pre_exp_analysis":"Thank you for answering those questions!\nWe will now give you some time to focus on the experience of using this keyboard.\nPlease listen to the study administrator for instructions."
+}
